@@ -19,5 +19,6 @@ We then used We use a distilled version of the BERT base model. As BERT uses bid
 To run and test our application ,
 
 1. cd API
-2. run python app.py (This is now the server)
-3. You could either use postman or test.py to send data, just remember to change the content in test.py
+2. pip install -r requirements.txt (to install all required libraries)
+3. run python app.py (This is now the server)
+4. You could either use postman or test.py to send data, just remember to change the content in test.py
